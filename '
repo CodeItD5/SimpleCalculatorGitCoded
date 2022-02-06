@@ -1,0 +1,9 @@
+Added feature divide in calculator app
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feature/divide
+# Changes to be committed:
+#	modified:   calculator.html
+#	modified:   calculator.js
+#
